@@ -1,6 +1,7 @@
 ---
 title: "Shimcache/AppCompatCache"
 layout: post
+permalink: shimcache
 ---
 
 ## Location and Format
