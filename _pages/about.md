@@ -6,13 +6,6 @@ category: Jekyll
 layout: post
 ---
 
----
-layout: single
-author_profile: true
-title: About Me
-permalink: /about/
----
-
 # Digital Forensics Analyst and Threat Hunter
 
 *Highly skilled and fast learning Digital Forensics Specialist with 4+ years of experience in Incident Response and Forensics Investigations. Expertise in host/network forensics, malware analysis, threat containment, and proven track record of providing actionable reports. Strong Analytical and problem-solving skills with the ability to communicate clearly to management. Seeking a challenging technical role at a company that values growth and collaboration.*
