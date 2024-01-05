@@ -1,7 +1,7 @@
 ---
 title: "Userassist"
 layout: post
-permalink: Userassist
+permalink: /userassist
 ---
 
 ## Location and Format
