@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+Currently no specific contact information for this site. If you would like to suggest an improvement or have an idea please create a github issue.
