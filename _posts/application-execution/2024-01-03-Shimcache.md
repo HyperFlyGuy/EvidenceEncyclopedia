@@ -2,6 +2,7 @@
 title: "Shimcache/AppCompatCache"
 layout: post
 permalink: /shimcache-appcompatcache
+categories: Application-Execution
 ---
 
 ## Location and Format
