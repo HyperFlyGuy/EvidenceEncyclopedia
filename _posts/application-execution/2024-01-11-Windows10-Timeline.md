@@ -19,6 +19,7 @@ The sqlite database format allows us to pivot around the data this artifact prov
 - Start time, end time, and duration
 - Items opened with an application
 - URLs visited 
+
 **Please note that this feature was depreciated with Win11 but the database appears to still be present even in Win11.**
 
 ## Example Analysis
