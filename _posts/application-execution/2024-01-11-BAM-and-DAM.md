@@ -1,5 +1,5 @@
 ---
-title: "BAMandDAM"
+title: "BAM and DAM"
 layout: post
 permalink: /bam-and-dam
 categories: Application-Execution
