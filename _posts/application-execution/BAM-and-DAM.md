@@ -1,12 +1,12 @@
 ---
-title: "Amcache"
+title: "BAMandDAM"
 layout: post
-permalink: /amcache
+permalink: /bam-and-dam
 categories: Application-Execution
 ---
 ## Location and Format
 
-The Amcache.hve is a new registry hive that is located at **"C:\Windows\AppCompat\Programs\Amcache.hve"**
+The Windows Background/Desktop Activity Monitor (BAM/DAM) are located in two SYSTEM registry keys **"SYSTEM\CurrentControlSet\Services\bam\state\UserSettings\<SID>"** and **"SYSTEM\CurrentControlSet\Services\dam\state\UserSettings\<SID>"** respectively.
 
 ## Purpose
 
