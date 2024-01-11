@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /categories/
-title: Categories
+title: Evidence Index
 ---
 
 <div id="archives">
