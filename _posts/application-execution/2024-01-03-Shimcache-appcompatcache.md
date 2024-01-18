@@ -22,6 +22,11 @@ Shimcache has been a long time favorite of Forensicators as an artifact that cor
 
 There are important facts about shimcache that you should be aware of before you begin analysis. First, The modification time of the shim cache entry does **not** indicate execution. The last modification date gives us the last time that the file content was changed (This causes an application to be re-shimmed). Secondly, if the modification time of the file and the modification time of the shimcache entry do not match it could indicate the time stomping occurred. Thirdly, Windows XP only tracks 96 entries and Win 7+ tracks 1024 entries. The Shimcache is rolling, meaning that once capacity is reached the older entries are overwritten by the newer ones. Lastly, the shimcache is present on servers and workstations alike (unlike prefetch).
 
+## Analysis Tools 
+
+- appcompatcacheparser.exe (https://github.com/EricZimmerman/AppCompatCacheParser)
+- appcompatprocessor.py (https://github.com/mbevilacqua/appcompatprocessor)
+
 ## Example Analysis
 
 pending
