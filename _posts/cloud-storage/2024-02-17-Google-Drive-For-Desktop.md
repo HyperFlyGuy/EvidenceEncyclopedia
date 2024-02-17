@@ -8,11 +8,11 @@ categories: Cloud-Storage
 
 Similar to other cloud storage applications there are a few locations that you need to be aware of.
 - Local drive letter for virtual volume and account ID
--- NTUSER\Software\Google\DriveFS\Share\
+        - NTUSER\Software\Google\DriveFS\Share\
 - Default local file cache
--- %USERPROFILE%\AppData\Local\Google\DriveFS\accountidentifier\content_cache
+        - %USERPROFILE%\AppData\Local\Google\DriveFS\accountidentifier\content_cache
 - File metadata
--- %USERPROFILE%\AppData\Local\Google\DriveFS\accountidentifier\metadata_sqlite_db
+        - %USERPROFILE%\AppData\Local\Google\DriveFS\accountidentifier\metadata_sqlite_db
 
 ## Purpose
 
