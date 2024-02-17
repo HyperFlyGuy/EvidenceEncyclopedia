@@ -12,22 +12,26 @@ layout: post
 
 # Professional Experience
 
-## Present Company | 08/2020-Present
+## Present Company | 08/2023-Present
 
 ### Digital Forensics Specialist and Threat Hunter
 
-- Directs threat hunting activity to find potential threats and create detection controls
-- Evaluated forensic capabilities of the organization in relation to evidence acquisition and analysis
-- Automated the creation of a forensic virtual machine that centralized all of the forensic tooling
-- Created numerous detection controls based on log types such as Proxy, DNS, and Active Directory
+- Project lead in the development of forensic capabilities within Microsoft Defender for Endpoint (MDE)
+-- Completed my goal of onboarding memory capture functionality into MDE along with other evidence acquisition capabilities.
+- Spear headed compromise assessments to find potential threats and create detection controls that support incident response and security operations.
+- Utilizes tools like FTK, SIFT, Splunk, Tanium, and MDE to determine the root cause of incidents and malicious activity that occurred within the environment.
+- Delivers high quality forensics reports that present complex, technical matters, clearly and concisely, to various stake holders.
 
+## Present Company | 08/2020-08/2023+
 
 ### Senior Cyber Defense Analyst
 
-- Operated on a Global SOC team that uses a follow the sun model to provide 24X7 coverage with the goal of containment and remediation.
-- Managed and established the Bug Bounty program which resulted in 90+ high and critical vulnerabilities being remediated
-- Analyzed host and network artifacts to extract IOC’s that could be used for threat hunting and ensure that no intrusion occurred.
-- Utilized a SIEM to triage alerts and analyze various protocols to determine root cause and achieve containment
+- Managed and established the Bug Bounty program which involved triage and analysis of vulnerabilities reported from external researchers. 
+-- Resulted in the complete remediation of 90+ high and critical external vulnerabilities that were reported.
+- Conducted real time analysis using SIEM, EDR, and Network based technologies to identify security events and false positives.
+- Engaged and collaborated with application owners to drive for remediation of security vulnerabilities.
+- Triaged and resolved incident investigations and containment that involved advanced or complex threats.
+
 
 
 ## Previous Company | 05/2019-08/2019
