@@ -16,10 +16,11 @@ The UserAssist key tracks the GUI-based applications that are run from the deskt
 ## Forensic Uses
 
 Forensicators use this registry as evidence of application execution. Due to the ROT13 encoding the data in the Userassist is not viewable in plaintext. However, there are well known tools that give us the ability to view this data. Once we have decoded this data we can expect to find the following:
--  Guid Key (ROT13 encoded)
--  Name (GUID Key decoded)
--  Counter for program execution
--  Last run time
+
+    -  Guid Key (ROT13 encoded)
+    -  Name (GUID Key decoded)
+    -  Counter for program execution
+    -  Last run time
 
 Please note that in Windows versions lower than 7 the Counter starts at 5 by default. This is by design from Microsoft.
 

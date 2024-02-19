@@ -15,10 +15,11 @@ The Windows 10 timeline is a newer artifact and allows a user to travel back in 
 ## Forensic Uses
 
 The sqlite database format allows us to pivot around the data this artifact provides rather quickly. The timeline database provides us loads of information including:
-- Full path of executed application
-- Start time, end time, and duration
-- Items opened with an application
-- URLs visited 
+
+    - Full path of executed application
+    - Start time, end time, and duration
+    - Items opened with an application
+    - URLs visited 
 
 **Please note that this feature was depreciated with Win11 but the database appears to still be present even in Win11.**
 

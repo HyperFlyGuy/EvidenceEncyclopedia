@@ -16,9 +16,9 @@ The SRUM Database can record between 30-60 days of historical system performance
 ## Forensic Uses
 
 The SRUDB.dat is an ESE database that is one of the formats regularly used by Microsoft. It can allow us to discover application execution for various applications and users. The tables that are most useful for forensic purposes are:
-- Network Data Usage
-- Application Resource Usage
-- Network Connectivity Usage
+    - Network Data Usage
+    - Application Resource Usage
+    - Network Connectivity Usage
 
 ## Analysis Tools 
 
