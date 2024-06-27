@@ -111,6 +111,27 @@ Now hopefully you have a CSV file that is ready for analysis however you see fit
 
 ## Scaling Up with Timesketch!
 
+Timeline analysis is a proven method for Incident response and Digital Forensics. However it can get overwhelming when you have more than a handful of systems, or even one system if the scope is large. This is where Timesketch comes into play (https://timesketch.org)! There are other guides for how to install Timesketch and the best implementations, this will not be covered here. I run Timesketch in a more tactical capacity via a docker container on my analysis VM.
+
+When you open the Timesketch web UI you will be greeted with something similar to this. There is a legacy UI available but I personally prefer the new UI. Also note that the VM I am using has SANS lab data in it, but we will not be performing any in depth analysis to avoid copyright.
+
+![image](/assets/page_assets/timeline_like_a_boss/Timesketch-home.png)
+
+Listed at the bottom of the picture is where we see our "sketches", sketches are the equivalent to a case and can hold multiple artifact types/sources. Think of them as the folder that your evidence files are in.
+
+![image](/assets/page_assets/timeline_like_a_boss/sketch-view.png)
+
+If we drill down into our sketch we will be presented with something similar to the above. There are a handful of tabs that as an analyst you must be aware of! Let's discuss these in just a  little bit of depth!
+
+### Timelines
+
+### Data Types
+
+### Search
+
+### Saved Searches
+
+### Graphs
 
 
 ## Common Issues:
