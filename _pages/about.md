@@ -8,7 +8,7 @@ layout: post
 
 # Digital Forensics Analyst and Threat Hunter
 
-*Highly skilled and fast learning Digital Forensics Specialist with 4+ years of experience in Incident Response and Forensics Investigations. Expertise in host/network forensics, malware analysis, threat containment, and proven track record of providing actionable reports. Strong Analytical and problem-solving skills with the ability to communicate clearly to management. Seeking a challenging technical role at a company that values growth and collaboration.*
+*Skilled and fast learning Digital Forensics Specialist with 4+ years of experience in Incident Response and Forensics Investigations. Expertise in host/network forensics, malware analysis, threat containment, and proven track record of providing actionable reports. Strong Analytical and problem-solving skills with the ability to communicate clearly to management. Seeking a challenging technical role at a company that values growth and collaboration.*
 
 # Professional Experience
 
@@ -52,6 +52,7 @@ Obtained a Bachelors degree in Cyber Security with a minor in mathematics
 - CompTIA Security+ 
 - CompTIA CYSA+ 
 - GIAC GNFA Certified
+- GIAC GCFA Certified
 - GIAC Advisory Board Member
 - Microsoft Certified: Azure Fundamentals (AZ900)
 
