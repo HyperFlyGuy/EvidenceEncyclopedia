@@ -1,14 +1,14 @@
 ---
-title: The Kusto Query Quick Reference
+title: The Detection Domination Guide
 author: Hyper Fly Guy
 date: 2024-06-27
 category: Jekyll
 layout: post
 ---
 
-Content Coming Soon
+This page is dedicated to various detections that I have made. Currently These detections will each be written in a specific language that is specified in the heading. However, in the future I will adapt these to sigma rules to make them more flexible to various products.
 
-### DCOM Hijacking Detection
+### DCOM Hijacking Detection (Microsoft KQL)
 
     union DeviceFileEvents,DeviceProcessEvents,DeviceImageLoadEvents,DeviceProcessEvents
     | where (FolderPath contains "C:\\Program Files\\Common Files\\System\\UxTheme.dll" and InitiatingProcessFileName == "prevhost.exe")
